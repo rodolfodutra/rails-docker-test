@@ -1,24 +1,18 @@
-# README
+# Sprachtandem Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### What it is
+Idea is to create a web page where users can search other users to practice languages. Follows ideas from [Sprachtandem Leipzig](http://www.sprachtandem-leipzig.de/de/tandem/).
 
-Things you may want to cover:
+### What technologies are used 
+- Rails 7 
+- Hotwire (Turbo/Stimulus) 
+- TailwindCSS
+- Esbuild
+- Docker 
+- PostgreSQL
 
-* Ruby version
+#### Contact 
+Rodolfo Dutra 
+rodolfo.dutra[at]pm.me 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###### Status: in-progress - initial setup
