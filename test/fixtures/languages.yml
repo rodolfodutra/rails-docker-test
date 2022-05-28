@@ -1,0 +1,21 @@
+# == Schema Information
+#
+# Table name: languages
+#
+#  id         :bigint           not null, primary key
+#  name       :string
+#  nativeName :string
+#  code       :string
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+
+one:
+  name: MyString
+  nativeName: MyString
+  code: MyString
+
+two:
+  name: MyString
+  nativeName: MyString
+  code: MyString

@@ -66,6 +66,9 @@ group :development do
   # livereload with esbuild configuration
   gem "hotwire-livereload"
 
+  # annotate models [https://github.com/ctran/annotate_models]
+  gem 'annotate'
+
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
 
