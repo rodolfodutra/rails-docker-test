@@ -1,7 +1,7 @@
-# Sprachtandem Project
+# Rails/Docker Project Setup
 
 ### What it is:
-Idea is to create a web page where users can search other users to practice languages. Follows idea of [Sprachtandem Leipzig](http://www.sprachtandem-leipzig.de/de/tandem/).
+Includes a bootstrapped Rails 7 app with Docker and Docker configuration.
 
 ### What technologies are used: 
 - Rails 7 
@@ -10,7 +10,5 @@ Idea is to create a web page where users can search other users to practice lang
 - Esbuild
 - Docker 
 - PostgreSQL
-
-#### Status: in-progress - initial setup
 
 #### Contact: rodolfo.dutra[at]pm.me 
